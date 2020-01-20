@@ -1,2 +1,2 @@
-# thunderbird-quote-colors
+# Thunderbird QuoteColors
 Updated quote colors addon
